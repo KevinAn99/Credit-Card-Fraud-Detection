@@ -6,7 +6,8 @@ Credit card fraud is a significant global problem, leading to financial losses a
 
 ## 📁 Repository Contents  
 - **`Credit-Card-Fraud-Detection.ipynb`** - Jupyter Notebook with data preprocessing, model training, and evaluation.  
-- **`card_transdata.csv`** - Processed dataset used for training and testing. It's bigger than 25MB, so we can just use data from the link below. 
+- **`card_transdata.csv`** - Processed dataset used for training and testing. It's bigger than 25MB, so we can just use data from the link below.
+- https://drive.google.com/file/d/1yFcUZZtNiZioqs_F_Sq2qiiU1LLfS6i_/view?usp=sharing
 - **`Credit-Card-Fraud-Detection.pptx`** - Presentation summarizing methodology, findings, and conclusions.  
 
 ## 📊 Dataset Information  
