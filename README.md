@@ -43,8 +43,8 @@ We experimented with multiple classification models:
 1. **Install required Python libraries**  
    ```bash
    pip install pandas numpy scikit-learn matplotlib seaborn
-2.Open Jupyter Notebook and run CS677_Final_Project.ipynb.
-3.The dataset card_transdata.csv should be in the same directory as the notebook.
+2. Open Jupyter Notebook and run Credit-Card-Fraud-Detection.ipynb.
+3. The dataset card_transdata.csv should be in the same directory as the notebook. (Or you can use your dataset instead.)
 
 ## 🔗 References
 Dataset: Kaggle - Credit Card Fraud
